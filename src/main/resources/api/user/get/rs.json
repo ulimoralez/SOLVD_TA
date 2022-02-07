@@ -1,0 +1,6 @@
+{
+  "userId": "regex:[\\d]",
+  "id": 1,
+  "title": "${postName}",
+  "body": "type:String"
+}
