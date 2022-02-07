@@ -1,0 +1,9 @@
+{
+  <#if title??>
+  "title": "${postName}",
+  <#else>
+  "title": "name-not-found",
+  </#if>
+  "body": "${postBody}",
+  "userId": 1
+}

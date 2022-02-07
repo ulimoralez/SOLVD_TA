@@ -1,0 +1,6 @@
+{
+  "id": "skip",
+  "title": "${postName}",
+  "body": "${postBody}",
+  "userId": 1
+}
