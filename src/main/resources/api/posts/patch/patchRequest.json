@@ -1,0 +1,10 @@
+{
+  <#if id?exists>
+  "id": "${postId}",
+  <#else>
+  "id": 1,
+  </#if>
+  "title": "${postName}",
+  "body": "${postBody}",
+  "userId": "${postUserId}"
+}
