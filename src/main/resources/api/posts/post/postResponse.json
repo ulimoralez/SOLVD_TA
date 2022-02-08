@@ -1,0 +1,6 @@
+{
+  "id": 101,
+  "title": "${postName}",
+  "body": "${postBody}",
+  "userId": "${postUserId}"
+}
